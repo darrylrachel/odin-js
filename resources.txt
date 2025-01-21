@@ -1,0 +1,8 @@
+1. How to think like a programmer - Lesson in Problem Solving
+https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+
+2. How to begin thinking like a programmer by Coding Tech (1hr)
+https://www.youtube.com/watch?v=azcrPFhaY9k
+
+3. Pseudocode: What it is and How to write it 
+https://www.builtin.com/data-science/pseudocode
